@@ -4,7 +4,6 @@
 '''
 Models for user, blog, comment.
 '''
-
 __author__ = 'Leo'
 
 import time, uuid
